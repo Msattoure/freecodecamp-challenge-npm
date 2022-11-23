@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Moussa TOURE",
 	"description": "A project for my freecodecamp challenge",
-	"keywords": [ "Tax", "DGI", "RDC" ],
+	"keywords": [ "Tax", "DGI", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
