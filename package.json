@@ -3,6 +3,7 @@
 	"author": "Moussa TOURE",
 	"description": "A project for my freecodecamp challenge",
 	"keywords": [ "Tax", "DGI", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
